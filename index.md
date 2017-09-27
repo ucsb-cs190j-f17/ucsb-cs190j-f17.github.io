@@ -1,5 +1,5 @@
 ---
-title: CS8, Fall 2017, dmirza
+title: CS190J, Fall 2017, pconrad, dmirza
 ---
 
 # {{site.course}}, {{site.quarter}}
@@ -14,10 +14,6 @@ title: CS8, Fall 2017, dmirza
 </ul>
 </div>
 
-<div data-role="collapsible" data-collapsed="false">
-<h2 id="labs">Labs:</h2>
-{% include lab_table.html %}
-</div>
 
 
 <div data-role="collapsible" data-collapsed="false">
@@ -25,10 +21,6 @@ title: CS8, Fall 2017, dmirza
 {% include hwk_table.html %}
 </div>
 
-<div data-role="collapsible" data-collapsed="false">
-<h2 id="exams">Exams</h2>
-{%include exam_table.html %}
-</div>
 
 <div data-role="collapsible" data-collapsed="false">
 <h2 id="teams">Lectures</h2>
