@@ -38,7 +38,7 @@ REFERENCES
 
 [13] Vreda Pieterse and Christoph Stallmann. 2014. Managing a Large Tertiary Computer Science Class. In Proceedings of the Computer Science Education Research Conference (CSERC ’14). ACM, New York, NY, USA, 79–90. DOI: <http://dx.doi.org/10.1145/2691352.2691359>
 
-[14] Noa Ragonis and Orit Hazzan. 2008. Tutoring Model for Promoting Teaching Skills of Computer Science Prospective Teachers. In Proceedings of the 13th Annual Conference on Innovation and Technology in Computer Science Education (ITiCSE ’08). ACM, New York, NY, USA, 276–280. DOI: <http://dx.doi.org/10.1145/ 1384271.1384345>
+[14] Noa Ragonis and Orit Hazzan. 2008. Tutoring Model for Promoting Teaching Skills of Computer Science Prospective Teachers. In Proceedings of the 13th Annual Conference on Innovation and Technology in Computer Science Education (ITiCSE ’08). ACM, New York, NY, USA, 276–280. DOI: <http://dx.doi.org/10.1145/1384271.1384345>
 
 [15] Stuart Reges. 2003. Using Undergraduates As Teaching Assistants at a State University. In Proceedings of the 34th SIGCSE Technical Symposium on Computer Science Education (SIGCSE ’03). ACM, New York, NY, USA, 103–107. DOI: 
 <http://dx.doi.org/10.1145/611892.611943>
