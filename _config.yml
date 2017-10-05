@@ -52,6 +52,9 @@ exclude:
 timezone: America/Los_Angeles
 
 collections:
+  papers:
+    output: true
+    permalink: /hwk/:path/
   hwk:
     output: true
     permalink: /hwk/:path/

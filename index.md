@@ -14,6 +14,14 @@ title: CS190J, Fall 2017, pconrad, dmirza
 </ul>
 </div>
 
+<div id="papers" data-role="collapsible" data-collapsed="true">
+<h2>Papers</h2>
+<ul>
+{% for item in site.papers %}
+<li><a href="{{item.url}}"  data-ajax="false">{{item.num }}</a>&mdash;{{item.desc}}</li>
+{% endfor %}
+</ul>
+</div>
 
 
 <div data-role="collapsible" data-collapsed="false">
