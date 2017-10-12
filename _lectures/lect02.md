@@ -1,6 +1,6 @@
 ---
 num: "Lecture 2"
-desc: "Orientation to the course"
+desc: "Course specific instructions"
 ready: false
 date: 2017-08-08 09:30:00.00-7:00
 ---
@@ -14,12 +14,17 @@ We need two TAs present in each lab section as per the assignment detailed below
 * 8am - 11am   : Boyuan and Nemanja
 * 11am - 1:50pm: Tim, Jian and Yun
 
-Consider rotating this schedule to cover the early morning labs
+* Boyuan - print papers and distribute in section, Nemanja will scan and upload
+* Yun will print, and Jian will scan
+* Nemanja will look into automating grading for coding style
+
+Switch on 11/07
 
 Instructions on how to lead the lab sections:
 
 * Make sure you have the room key - you can get the key from Benji (CSE)
 * Familiarize yourself with the lab before coming to section
+* Make announcement about not swicthing sections or doing it with the consent of the TA
 * Arrive 5 minutes early. 11 am TAs should arrive 10 minutes early to get prepped by the 8am TAs on things to watch out for, and information that needs to be relayed to the students. 8am TAs, please stay an extra five minutes to ensure a smooth handoff.
 * Log into the instructor computer in the front of the room. All TAs should try to do this at least once during the first lab section because you have to set up your desktop environment the very first time. Make sure you have display mirroring setup so that the information displayed on your screen and that projected to the students is the same. Make sure your font sizes are large. Open terminal and zoom in to get a display that can be easily viewed by anyone at the back of the room.
 * Remind the tutors to do the rounds rather than camp out for extended periods of time. 
