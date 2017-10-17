@@ -1,21 +1,20 @@
 ---
 num: "Lecture 2"
 desc: "Course specific instructions"
-ready: false
-date: 2017-08-08 09:30:00.00-7:00
+ready: true
+date: 2017-10-05 15:30:00.00-7:00
 ---
 
 # Week 1 prep
 
-## TA description of duties
+## TA description of duties for CS8
 
 We need two TAs present in each lab section as per the assignment detailed below:
 
 * 8am - 11am   : Boyuan and Nemanja
 * 11am - 1:50pm: Tim, Jian and Yun
 
-* Boyuan - print papers and distribute in section, Nemanja will scan and upload
-* Yun will print, and Jian will scan
+* Boyuan - print homeworks and in class assignments for ALL sections. These must be given out and collected durin the lab sections.
 * Nemanja will look into automating grading for coding style
 
 Switch on 11/07
