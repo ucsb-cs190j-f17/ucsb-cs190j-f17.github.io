@@ -56,6 +56,10 @@ with curating the legacy code projects, reviewing student code, approving "issue
 
 It is a great opportunity to build on your understanding of Java, Design Patterns, git/github, software testing, and other materials from CS56, as well as developing communication and leadership skills in a software development context.
 
+More information on mentor responsibilities for CS56 can be found at these links:
+
+* <https://ucsb-cs56-pconrad-mentors.github.io/topics/CS56_mentor_overview/>
+* <https://ucsb-cs56-pconrad-mentors.github.io/>
 
 
 
