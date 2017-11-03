@@ -31,24 +31,22 @@ Students who successfully complete this course will earn 4 units towards their m
 
 </div>
 
-
-
-Course components:
+# Course components:
 
 The course has three main components lectures, discussions and homeworks as described below.
 
-* Lectures will cover best practices and current research in CS pedagogy with the goal of providing students with the knowledge and skill set needed to be an effective mentor and teacher of Computer Science. Students will learn about student development theories, different pedagogical techniques, methods for assessing learning, and the ethics of being a mentor. These topics will be presented in the context of two specific undergraduate courses:  CS8 and CS 56.  Attendance is mandatory and a student may miss no more than one lecture (with consent of the instructor).
-In discussion sections students will apply the content covered in lectures to mentor students in the context of either CS 8 or CS56.  At the outset of the course, each student in CS190J will be assigned to one of these two courses where they will gain hands-on experience as “course mentors”. Students must attend one discussion section weekly that is co-located with the discussion section(s) of the course that they have been assigned to (either CS8 or CS56).  See the following sections on “Mentoring in the context of CS8/56” for more information.
+* Lectures will cover best practices and current research in CS pedagogy with the goal of providing students with the  knowledge and skill set needed to be an effective mentor and teacher of Computer Science. Students will learn about student development theories, different pedagogical techniques, methods for assessing learning, and the ethics of being a mentor. These topics will be presented in the context of two specific undergraduate courses:  CS8 and CS 56.  Attendance is mandatory and a student may miss no more than one lecture (with consent of the instructor).
+* In discussion sections students will apply the content covered in lectures to mentor students in the context of either CS 8 or CS56.  At the outset of the course, each student in CS190J will be assigned to one of these two courses where they will gain hands-on experience as “course mentors”. Students must attend one discussion section weekly that is co-located with the discussion section(s) of the course that they have been assigned to (either CS8 or CS56).  See the following sections on “Mentoring in the context of CS8/56” for more information.
 
 * Homeworks include reading and writing assignments, as well as the completion of specific tasks that will be specific to the course that students have been assigned to. Assignments include reading scholarly articles and writing summaries/reviews about them, writing reflections on tutoring activities, and providing feedback on student work. Other tasks may be assigned as homework by instructors of the courses that students are mentoring for. For more information, please see the following subsections.
 
-Mentoring in the context of CMPSC 8
+# Mentoring in the context of CMPSC 8
 
 CMPSC 8 is usually the first CS course that students take at UCSB. The mentors in CMPSC 8 will assist students with different levels of programming experience understand concepts that are foundational to CS and gain study habits and skills that will help them succeed in future CS courses. Mentors are central to creating a supportive learning environment and helping students engage with the material.  
 
 The mentors will assist students during the CS 8 lab sections, while they work on their programming assignments, provide feedback on student code and homework, and review student work on exams. Mentors will also be involved with creating collaborative study guides and assisting with study sessions prior to exams.
 
-Mentoring in the context of CMPSC 56 
+# Mentoring in the context of CMPSC 56 
 
 As you may recall, when you were enrolled in Phill Conrad’s CMPSC 56 course,
 there were a number of CS undergrads that served as "mentors" for the course, particularly for the legacy code projects.    These students help
