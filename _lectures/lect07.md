@@ -19,5 +19,6 @@ Where to find information
     * SIGCSE  (biggest US conference)
     * ITICSE  (biggest international conference)
     * Koli Calling  (special event in Finland)
+    * ACM Inroads (Magazine)
     * Various CCSC Conferences   (regional in US)
 
