@@ -7,7 +7,8 @@ date: 2017-11-16 15:30:00.00-7:00
 
 # Code Review
 
-* Code Review Checklist: <https://foo.cs.ucsb.edu/pcr/sigcse2014/asDeliveredAtSIGCSE/example-code-review-checklist.pdf>
+* Short Code Review Checklist: <https://foo.cs.ucsb.edu/pcr/sigcse2014/asDeliveredAtSIGCSE/example-code-review-checklist.pdf>
+
 
 * Article: "Coding Guidelines: Finding the Art in the Science"
 
@@ -15,6 +16,7 @@ date: 2017-11-16 15:30:00.00-7:00
     * In ACM Queue: [main page with link to pdf](https://doi.org/10.1145/2063166.2063168)
     * In CACM: [main page with link to pdf](https://doi.org/10.1145/2043174.2043191), 
 
+    Here is is the [Coding Guidelines](https://docs.google.com/document/d/e/2PACX-1vRH16gw4r6lCFJbG6W_7Fro2oD0WjSEKQmEJMNCvHdREF7L5fSCvskAynHbPuZfE2F-fPh2wArDoRp9/pub) that are referred to in that article, formatted a little cleaner than the original.
 
 # Best Practies in CS Ed
 
