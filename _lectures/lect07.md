@@ -17,6 +17,8 @@ date: 2017-11-16 15:30:00.00-7:00
     * In CACM: [main page with link to html and pdf](https://doi.org/10.1145/2043174.2043191), 
 
     Here is is the [Coding Guidelines](https://docs.google.com/document/d/e/2PACX-1vRH16gw4r6lCFJbG6W_7Fro2oD0WjSEKQmEJMNCvHdREF7L5fSCvskAynHbPuZfE2F-fPh2wArDoRp9/pub) that are referred to in that article, formatted a little cleaner than the original.
+    
+* [Python pep8: Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
 # Best Practies in CS Ed
 
