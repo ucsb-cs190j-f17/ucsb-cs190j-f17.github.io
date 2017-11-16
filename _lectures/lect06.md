@@ -5,4 +5,7 @@ ready: true
 date: 2017-11-09 15:30:00.00-7:00
 ---
 
-# TBD
+# Topics
+
+* Discussions on peer learning
+
