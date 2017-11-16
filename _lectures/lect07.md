@@ -20,6 +20,8 @@ date: 2017-11-16 15:30:00.00-7:00
     
 * [Python pep8: Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
+* [CodeClimate.com](https://codeclimate.com) Free analysis tool for open source projects. (Costs money for closed source).
+
 # Best Practies in CS Ed
 
 Where to find information
