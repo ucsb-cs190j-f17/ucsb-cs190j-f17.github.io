@@ -22,3 +22,4 @@ Where to find information
     * ACM Inroads (Magazine)
     * Various CCSC Conferences   (regional in US)
 
+* Mark Guzdial's Blog: <https://computinged.wordpress.com/>
