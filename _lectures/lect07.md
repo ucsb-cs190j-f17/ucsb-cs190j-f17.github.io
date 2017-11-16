@@ -8,9 +8,10 @@ date: 2017-11-16 15:30:00.00-7:00
 # Code Review
 
 * Code Review Checklist: <https://foo.cs.ucsb.edu/pcr/sigcse2014/asDeliveredAtSIGCSE/example-code-review-checklist.pdf>
+
 * Article: "Coding Guidelines: Finding the Art in the Science"
 
-    There are two different versions; same content, just formatting differently:
+    There are two different versions; same content, just formatted differently:
     * In ACM Queue: [main page with link to pdf](https://doi.org/10.1145/2063166.2063168)
     * In CACM: [main page with link to pdf](https://doi.org/10.1145/2043174.2043191), 
 
